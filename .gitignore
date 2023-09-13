@@ -2,7 +2,7 @@
 # It can make harm to an existing project source. Read explanations below.
 #
 # Resource files are binaries containing manifest, project icon and version info.
-# They can not be viewed as compared by diff-tools. Consider replacing them with .rc files.
+# They can not be viewed as compared by ols. Consider replacing them with .rc files.
 #*.res
 #
 # Type library file (binary). In old Delphi versions it should be stored.
